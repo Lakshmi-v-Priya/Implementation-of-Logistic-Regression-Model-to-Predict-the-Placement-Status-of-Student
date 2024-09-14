@@ -80,7 +80,7 @@ print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
-```
+
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/bad9b9df-ec20-4cb3-8b64-34dfb42a9ebb)
